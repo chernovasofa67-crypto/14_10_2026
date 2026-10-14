@@ -7,4 +7,5 @@ add_executable(14_10_2026 main.cpp
         B1.h
         B2.h
         B3.h
+        D1.h
 )
