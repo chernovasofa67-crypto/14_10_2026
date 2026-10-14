@@ -13,7 +13,7 @@ protected:
     std::string nameD3;
 public:
     D3(const std::string&  vB1, const std::string& vB2, const std::string& vD1,
-        const std::string7 vB3, const std::string& vD2, const std :: string& vD3);
+        const std::string& vB3, const std::string& vD2, const std :: string& vD3);
     void show() const;
 };
 #endif //INC_14_10_2026_D3_H
