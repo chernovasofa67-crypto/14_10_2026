@@ -9,4 +9,5 @@ add_executable(14_10_2026 main.cpp
         B3.h
         D1.h
         D2.h
+        D3.h
 )
