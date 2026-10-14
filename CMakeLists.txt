@@ -4,6 +4,7 @@ project(14_10_2026)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(14_10_2026 main.cpp
-        B1.cpp
         B1.h
-        B2.h)
+        B2.h
+        B3.h
+)
